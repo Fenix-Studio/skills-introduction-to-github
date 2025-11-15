@@ -25,7 +25,9 @@ Meu objetivo é adquirir conhecimento continuamente e aplicá-lo em projetos des
 
 Este GitHub é o meu portfólio em constante evolução. Fique à vontade para explorar os repositórios e acompanhar meu progresso na construção de soluções inovadoras.
 
-Conecte-se comigo:
+Conecte-se comigo: imbivar@gmail.com
+                   https://Fenix-studio.github.io/portifólio/
+                   em/isabele-bivar
 
 
 Obrigada pela visita! Te espero para próxima.
