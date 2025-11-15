@@ -1,6 +1,6 @@
 Welcome to my GitHub profile!
 
-👩‍💻 Apresentação do GitHub: Minha Jornada Multidisciplinar rumo à Tecnologia
+👩‍💻 Minha Jornada Multidisciplinar rumo à Tecnologia
 Introdução: Paixão e Propósito
 Olá! Sou Isabele Bivar, e este é o meu espaço no GitHub, onde a minha formação em Direito se encontra com a minha crescente paixão e dedicação pela Tecnologia.
 
